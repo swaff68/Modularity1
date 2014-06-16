@@ -1,9 +1,9 @@
 /* ADD YOUR STYLES HERE */
-table {
+.data-table {
 	width:100%;
 
 }
-td {
+.data-table td {
 	border-bottom: 1px solid gray;
 padding: 5px;
 padding-top: 7px;
@@ -11,9 +11,31 @@ padding-bottom: 7px;
 vertical-align: top;
 }
 
-th{
+.data-table th{
 	text-align: left;
 	padding: 5px;
 	padding-top: 7px;
 	padding-bottom: 7px;
+}
+.stats {
+width:30%;
+}
+.stats td {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+padding: 5px;
+padding-top: 20px;
+padding-bottom: 20px;
+vertical-align: top;
+
+}
+.bg-num{
+	font: bold 30px/30px sans-serif;
+	text-align: center; 
+}
+
+.ltl-txt{
+		font: 12px/12px sans-serif;
+	text-align: center;
+	color: #ccc;
 }
