@@ -1,0 +1,19 @@
+/* ADD YOUR STYLES HERE */
+table {
+	width:100%;
+
+}
+td {
+	border-bottom: 1px solid gray;
+padding: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+vertical-align: top;
+}
+
+th{
+	text-align: left;
+	padding: 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
