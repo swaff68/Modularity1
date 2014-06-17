@@ -39,3 +39,43 @@ vertical-align: top;
 	text-align: center;
 	color: #ccc;
 }
+
+.bar-chart{
+	width: 100%;
+}
+
+.bar-chart th{
+	width:100px;
+}
+
+.bar{
+	background-color: #55AAFF;
+	color: white;
+	text-indent: 5px;
+}
+
+.l-box{
+	
+	background-color: rgb(71,70,71);
+	padding: 150px;
+
+}
+.h-box{
+	background-color: white;
+	padding: 10px 10px 60px 10px;
+	border-radius: 10px;
+	position: relative;
+	
+}
+
+.c-box{
+	background-color: rgb(224,108,119);
+	padding: 5px 5px 5px 5px;
+	border-radius: 5px;
+	width: 80px;
+	text-align: center;
+	bottom: 15px;
+	right:15px;
+	position:absolute;
+	color:white;
+}
