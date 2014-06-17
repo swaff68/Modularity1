@@ -79,3 +79,34 @@ vertical-align: top;
 	position:absolute;
 	color:white;
 }
+
+.mb1{
+	float: left;
+
+}
+.text {
+	margin-left: 60px;
+
+}
+
+.mb2{
+	float: left;
+}
+
+.ci2{
+	margin-left: 60px;
+
+}
+
+.mb3{
+	margin-left: 60px;
+	float: left;
+}
+
+.ci3{
+margin-left: 100px;
+}
+
+.text2{
+	margin-left: 100px;
+}
